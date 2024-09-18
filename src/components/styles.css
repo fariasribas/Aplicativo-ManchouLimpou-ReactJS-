@@ -1,0 +1,46 @@
+.stain-guide-container1 {
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  max-width: 1200px; /* Largura máxima para o container */
+  box-sizing: border-box; /* Inclui padding e border no total width/height */
+  max-height: 95vh;
+  overflow-y: auto;
+}
+
+/* GridComponent.css */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 colunas em telas grandes */
+  gap: 0;
+  width: 50%;
+  max-width: 1200px;
+  place-items: center;
+}
+
+@media (max-width: 900px) {
+  .grid-container {
+    grid-template-columns: repeat(3, 1fr); /* 2 colunas em telas menores */
+  }
+}
+
+@media (max-width: 600px) {
+  .grid-container {
+    grid-template-columns: repeat(
+      3,
+      1fr
+    ); /* 1 coluna em telas muito pequenas */
+    width: 100%; /* Usa 100% da largura da tela */
+  }
+}
+.gridtotop {
+  margin-bottom: 5vh;
+  color: "#021526";
+  margin-top: 20vh;
+}
+
+@media (max-width: 600px) {
+  .gridtotop {
+    margin-top: 5vh;
+  }
+}
