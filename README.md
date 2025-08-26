@@ -6,20 +6,20 @@ ManchouLimpou é um aplicativo web em **React JS** que ajuda a identificar e tra
 
 ## Funcionalidades
 
-- Seleção de cor e tonalidade da mancha pelo usuário
+- Seleção de cor da mancha pelo usuário
 - Perguntas para identificar o tipo da mancha
-![Escolha da mancha](<Assets/Screenshot 2025-08-26 at 13-29-31 De que cor é sua Mancha.png>)
-
 - Sugestões detalhadas de como remover cada tipo de mancha
-- Pesquisa e indexação de todos os guias
 - Design responsivo e interface amigável
-
-
-![Design responsivo](<Assets/Screenshot 2025-08-26 at 13-35-31 De que cor é sua Mancha.png>)
-
 - Pseudo-API que alimenta um aplicativo mobile com os mesmos dados
+- Pesquisa e indexação de todos os guias
 - Guias atualizaveis em Markdown
 - Projeto escalável
+
+![Indezação dos guias](Assets/2025-08-26_13-29.png)
+
+<p align="center">
+  <img src="Assets/Screenshot%202025-08-26%20at%2013-35-31%20De%20que%20cor%20é%20sua%20Mancha.png" alt="Design responsivo" width="600">
+</p>
 
 ## Tecnologias
 
@@ -27,6 +27,9 @@ ManchouLimpou é um aplicativo web em **React JS** que ajuda a identificar e tra
 - CSS customizado
 - Pseudo-API para integração mobile
 
+![Escolha de tonalidade](<Assets/Screenshot 2025-08-26 at 13-29-25 De que cor é sua Mancha.png>)
+![Escolha da mancha](<Assets/Screenshot 2025-08-26 at 13-29-31 De que cor é sua Mancha.png>)
+![Guia sobre como retirar a mancha](<Assets/Screenshot 2025-08-26 at 13-29-39 De que cor é sua Mancha.png>)
 
 # Sobre o Autor
 
