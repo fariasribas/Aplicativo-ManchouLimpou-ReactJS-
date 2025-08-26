@@ -19,6 +19,8 @@ ManchouLimpou é um aplicativo web em **React JS** que ajuda a identificar e tra
 ![Indezação dos guias](Assets/2025-08-26_13-29.png)
 
 - Design responsivo e interface amigável
+
+
 ![Design responsivo](<Assets/Screenshot 2025-08-26 at 13-35-31 De que cor é sua Mancha.png>)
 
 - Pseudo-API que alimenta um aplicativo mobile com os mesmos dados
